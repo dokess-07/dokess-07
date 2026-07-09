@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/Dokess_07">
+  <a href="https://github.com/Dokess-07">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=858&text=ABDERRAHMANE%20KHAYAKKOUTE" alt="ABDERRAHMANE KHAYAKKOUTE" />
   </a>
 </p>
@@ -13,7 +13,7 @@
 ### 🚀 About Me
 
 > * **Name** : Abderrahmane khayakkoute
-> * **Handle** : @dokess_07
+> * **Handle** : @dokess-07
 > * **Location** : Morocco 🇲🇦
 > * **Education Level** : Bac +2
 > * **Schools ** : ENSAK Khouribga
@@ -57,4 +57,4 @@
   <a href="mailto:abderrahmanekhayakkoute@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center"><i>⭐️ THAT'S ME : <a href="https://github.com/dokess_07">dokess_07</a></i></p>
+<p align="center"><i>⭐️ THAT'S ME : <a href="https://github.com/dokess-07">dokess-07</a></i></p>
