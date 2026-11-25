@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Future%20Cybersecurity%20Engineer%20%20Information%20Security%20%26%20Networks%20Student" alt="Typing headlines" />
+ <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Future%20Engineer%20in%20Information%20Systems%20Management%20and%20Governance" alt="Typing headlines" />
 </p>
 
 
