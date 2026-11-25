@@ -16,10 +16,10 @@
 > * **Handle** : @dokess-07
 > * **Location** : Morocco 🇲🇦
 > * **Education Level** : Bac +2
-> * **Schools ** : ENSAK Khouribga
+> * **Schools ** : ENSA Khouribga
 > * **Focus** : Systems Programming · C · Algorithms ·  Python · HTML/CSS 
-<br>🎓 Currently a second-year engineering student(BAC +2).
-<br>🧠 Aspiring to become a Cybersecurity Engineer.
+<br>🎓 Currently an Engineer in Information Systems Management and Governance.
+
 
 ---
 
